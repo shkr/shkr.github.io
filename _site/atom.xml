@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Shashank Shekhar</title>
+ <link href="http://shshnkshkr.in/atom.xml" rel="self"/>
+ <link href="http://shshnkshkr.in/"/>
+ <updated>2015-09-13T18:15:03-07:00</updated>
+ <id>http://shshnkshkr.in</id>
+ <author>
+   <name>Shashank Shekhar</name>
+   <email>shashank@campusdiaries.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://shshnkshkr.in/2015/09/13/introducing/"/>
+   <updated>2015-09-13T00:00:00-07:00</updated>
+   <id>http://shshnkshkr.in/2015/09/13/introducing</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;Namaste&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Amazing urls you must check out :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://campusdiaries.com&quot;&gt;Campus Diaries&lt;/a&gt;
+  Home to work, ideas and talent of students and universities across the world&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://lumiata.com&quot;&gt;Lumiata &lt;/a&gt;
+ Hyper-personalized medically-driven Analytics for the Entire Healthcare Network&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://existentialcomics.com&quot;&gt;Existential Comics&lt;/a&gt;
+ A philosophy comic about the inevitable anguish of living a brief of life in an absurd world. Also Jokes&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
